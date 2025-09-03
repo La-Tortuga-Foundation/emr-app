@@ -34,12 +34,34 @@ Built for offline use, with sync to Firebase/GCP and a live dashboard for commun
 ## Getting Started
 
 1. **Clone the repo**
+
    ```bash
    git clone git@github.com:LaTortuga-EMR/emr-app.git
    cd emr-app
+   ```
    
+2. **Install dependencies**
+```bash
 yarn install
+```
 
+3. ***Start the app***
+```bash
 expo start
+```
 
+4. ***Copy enviorment file***
+```bash
 cp .env.example .env
+```
+## Contributing
+- All changes go through pull requests to `main`.  
+- Use feature branches (`feature/xyz`).  
+- Keep forms and translations in `/configs` and `/i18n` (not hard-coded).  
+- Add documentation for new components and services in `/docs`.  
+
+License
+
+MIT License (or update if the foundation prefers a different license).
+
+

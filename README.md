@@ -33,25 +33,13 @@ Built for offline use, with sync to Firebase/GCP and a live dashboard for commun
 
 ## Getting Started
 
-```markdown
 1. **Clone the repo**
-   git clone git@github.com:LaTortuga-EMr/emr-app.git
+   ```bash
+   git clone git@github.com:LaTortuga-EMR/emr-app.git
    cd emr-app
+   
+yarn install
 
-2. **Install dependencies**
-   yarn install
+expo start
 
-3. **Start the app**
-   expo start
-
-4. **Copy environment file**
-   Copy `.env.example` → `.env` and add your Firebase config keys.
-
-## Contributing
-- All changes go through pull requests to `main`.  
-- Use feature branches (`feature/xyz`).  
-- Keep forms and translations in `/configs` and `/i18n` (not hard-coded).  
-- Add documentation for new components and services in `/docs`.  
-
-## License
-MIT License (or update if the foundation prefers a different license).  
+cp .env.example .env

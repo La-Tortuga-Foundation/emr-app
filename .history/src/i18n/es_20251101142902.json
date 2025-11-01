@@ -1,0 +1,37 @@
+{
+  "common": {
+    "next": "Siguiente",
+    "back": "Atrás",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "submit": "Enviar",
+    "clear": "Borrar",
+    "yes": "Sí",
+    "no": "No",
+    "loading": "Cargando..."
+  },
+  "labels": {
+    "pain": "Nivel de Dolor",
+    "temperature": "Temperatura",
+    "bloodPressure": "Presión Arterial",
+    "heartRate": "Frecuencia Cardíaca",
+    "weight": "Peso",
+    "height": "Altura",
+    "oxygenSaturation": "Saturación de Oxígeno (SpO₂)",
+    "respiratoryRate": "Frecuencia Respiratoria"
+  },
+  "placeholders": {
+    "enterText": "Ingresar texto",
+    "selectOption": "Seleccionar una opción"
+  },
+  "errors": {
+    "required": "Este campo es obligatorio",
+    "invalid": "Valor inválido"
+  },
+  "accessibility": {
+    "menu": "Menú",
+    "close": "Cerrar",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  }
+}

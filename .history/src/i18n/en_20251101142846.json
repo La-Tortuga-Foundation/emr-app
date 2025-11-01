@@ -1,0 +1,37 @@
+{
+  "common": {
+    "next": "Next",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "clear": "Clear",
+    "yes": "Yes",
+    "no": "No",
+    "loading": "Loading..."
+  },
+  "labels": {
+    "pain": "Pain Level",
+    "temperature": "Temperature",
+    "bloodPressure": "Blood Pressure",
+    "heartRate": "Heart Rate",
+    "weight": "Weight",
+    "height": "Height",
+    "oxygenSaturation": "Oxygen Saturation (SpO₂)",
+    "respiratoryRate": "Respiratory Rate"
+  },
+  "placeholders": {
+    "enterText": "Enter text",
+    "selectOption": "Select an option"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalid": "Invalid value"
+  },
+  "accessibility": {
+    "menu": "Menu",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}
